@@ -1291,10 +1291,8 @@ input, select, textarea {
 			}
 		
 		#header .capm{
-			position: relative;
 			margin-top: -10px;
 			margin-left: -10px;
-  			margin-right: 50px;
 		}
 
 		#header .logo {
